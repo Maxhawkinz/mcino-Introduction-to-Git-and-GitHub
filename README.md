@@ -12,5 +12,6 @@ Input:
 Output
    simple interest = p*t*r
 ```
+Additional minor change for pull request.
 
 _© 2022 XYZ, Inc._
